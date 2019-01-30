@@ -6,15 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp8
 {
-	class Program
+	class Factory
 	{
-		static void Main(string[] args)
-		{
-			// Some Changes (1)
-
-			// Making some changes (2)!
-
-			Factory factory = new Factory();
-		}
 	}
 }
